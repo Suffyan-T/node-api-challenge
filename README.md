@@ -40,13 +40,26 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+	Middlewear
+	Routing
+
+
 - [ ] Describe Middleware?
+
+	Express middleware are functions that execute during the lifecycle of a request to an Express server.
 
 - [ ] Describe a Resource?
 
+	Almost everything we work with is a resource
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+	API returns various Status Codeds to help the client know the request was sucessful
+
+
 - [ ] How can we partition our application into sub-applications?
+
+	By using Routing we can break our application into smaller parts
 
 ## Minimum Viable Product
 
