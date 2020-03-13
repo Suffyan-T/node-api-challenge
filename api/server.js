@@ -1,6 +1,5 @@
 const express = require('express');
 const helmet = require('helmet');
-// require('dotenv').config();
 
 // Routing
 const projectsRouter = require('../routers/projectsRouter');
